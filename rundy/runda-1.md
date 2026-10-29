@@ -1,7 +1,7 @@
-# Runda 1: Sama proœba (Zero-shot, brak formatu)
+ï»¿# Runda 1: Sama proÅ›ba (Zero-shot, brak formatu)
 
-## Proœba:
-Zrób notatnik: pole na tytu³, pole na treœæ, przycisk zapisu i lista zapisanych notatek. Notatki maj¹ byæ zapisywane do pliku.
+## ProÅ›ba:
+ZrÃ³b notatnik: pole na tytuÅ‚, pole na treÅ›Ä‡, przycisk zapisu i lista zapisanych notatek. Notatki majÄ… byÄ‡ zapisywane do pliku.
 
 ## Wynik na dysku:
-Agent wygenerowa³ zapis do pojedynczego pliku JSON o nazwie notes.json.
+Agent wygenerowaÅ‚ zapis do pojedynczego pliku JSON o nazwie notes.json.

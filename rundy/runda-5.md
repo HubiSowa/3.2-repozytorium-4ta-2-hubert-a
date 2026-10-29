@@ -1,4 +1,4 @@
-# Runda 5: Meta-prompt (Proúba poprawiona przez model)
+Ôªø# Runda 5: Meta-prompt (Pro≈õba poprawiona przez model)
 
 ## Opis:
-Uøycie meta-promptu wygenerowa≥o dok≥adniejsze wymagania techniczne dotyczπce kodowania UTF-8 oraz bezpiecznej struktury zapisu.
+U≈ºycie meta-promptu wygenerowa≈Ço dok≈Çadniejsze wymagania techniczne dotyczƒÖce kodowania UTF-8 oraz bezpiecznej struktury zapisu.

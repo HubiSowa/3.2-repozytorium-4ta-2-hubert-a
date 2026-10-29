@@ -1,9 +1,9 @@
-# Runda 2: Proœba z dopisanym formatem (Zero-shot z instrukcj¹)
+ï»¿# Runda 2: ProÅ›ba z dopisanym formatem (Zero-shot z instrukcjÄ…)
 
-## Proœba:
-Zrób notatnik: pole na tytu³, pole na treœæ, przycisk zapisu i lista zapisanych notatek. Notatki zapisuj do jednego pliku notatki.md w folderze projektu. Format wpisu:
-## 2026-09-08 14:32 — Tytu³ notatki
-treœæ notatki, mo¿e mieæ kilka linii
+## ProÅ›ba:
+ZrÃ³b notatnik: pole na tytuÅ‚, pole na treÅ›Ä‡, przycisk zapisu i lista zapisanych notatek. Notatki zapisuj do jednego pliku notatki.md w folderze projektu. Format wpisu:
+## 2026-09-08 14:32 â€” TytuÅ‚ notatki
+treÅ›Ä‡ notatki, moÅ¼e mieÄ‡ kilka linii
 
 ## Wynik na dysku:
-Plik notatki.md z zachowanym wskazanym formatem, najnowsza notatka na górze.
+Plik notatki.md z zachowanym wskazanym formatem, najnowsza notatka na gÃ³rze.

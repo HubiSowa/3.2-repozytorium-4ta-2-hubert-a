@@ -1,9 +1,9 @@
-# Runda 3: Jeden przyk³ad (One-shot)
+ï»¿# Runda 3: Jeden przykÅ‚ad (One-shot)
 
-## Proœba:
-Zrób notatnik z polem na tytu³, treœæ, przyciskiem zapisu i list¹. Notatki zapisuj do notatki.md. 
-Plik ma wygl¹daæ dok³adnie tak:
-## 2026-09-08 14:32 — Zakupy
+## ProÅ›ba:
+ZrÃ³b notatnik z polem na tytuÅ‚, treÅ›Ä‡, przyciskiem zapisu i listÄ…. Notatki zapisuj do notatki.md. 
+Plik ma wyglÄ…daÄ‡ dokÅ‚adnie tak:
+## 2026-09-08 14:32 â€” Zakupy
 mleko
 chleb
 

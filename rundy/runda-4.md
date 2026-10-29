@@ -1,7 +1,7 @@
-# Runda 4: Trzy przyk≥ady (Few-shot)
+Ôªø# Runda 4: Trzy przyk≈Çady (Few-shot)
 
-## Proúba:
-ZrÛb notatnik. Notatki zapisuj do notatki.md na podstawie trzech zrÛønicowanych przyk≥adÛw formatowania (wieloliniowe, jednolinijkowe, z polskimi znakami).
+## Pro≈õba:
+Zr√≥b notatnik. Notatki zapisuj do notatki.md na podstawie trzech zr√≥≈ºnicowanych przyk≈Çad√≥w formatowania (wieloliniowe, jednolinijkowe, z polskimi znakami).
 
 ## Wynik na dysku:
-Plik notatki.md w pe≥ni ustrukturyzowany i bezb≥Ídny.
+Plik notatki.md w pe≈Çni ustrukturyzowany i bezb≈Çƒôdny.

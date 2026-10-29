@@ -1,4 +1,4 @@
-# Runda 2 Powtórka (Uruchomienie bez zmian)
+ï»¿# Runda 2 PowtÃ³rka (Uruchomienie bez zmian)
 
 ## Wynik:
-Format pliku notatki.md pozosta³ poprawny, jednak struktura kodu C# wygenerowana przez model ró¿ni³a siê wewnêtrznie, co pokazuje niedeterministyczn¹ naturê LLM.
+Format pliku notatki.md pozostaÅ‚ poprawny, jednak struktura kodu C# wygenerowana przez model rÃ³Å¼niÅ‚a siÄ™ wewnÄ™trznie, co pokazuje niedeterministycznÄ… naturÄ™ LLM.
